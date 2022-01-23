@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912748327068",
+    "project_id": "cloud-sek",
+    "storage_bucket": "cloud-sek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912748327068:android:eaea7d785a2d598f7c3d59",
+        "android_client_info": {
+          "package_name": "com.application.cloudsek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912748327068-b16il7k52h9edre122q4s2pjqfhujovc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqyJpuvSzbvICDAwSS9EbezwH4Z-ayj4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912748327068-b16il7k52h9edre122q4s2pjqfhujovc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

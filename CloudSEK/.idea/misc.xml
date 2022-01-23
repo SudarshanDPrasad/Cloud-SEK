@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.26614583333333336" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/activity_add_post.xml" value="0.1" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/activity_base.xml" value="0.23731884057971014" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/activity_detailsactivity.xml" value="0.25" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/activity_signin.xml" value="0.25" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/fragment_add_image.xml" value="0.1793478260869565" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/layout/post_layout.xml" value="0.19384057971014493" />
+        <entry key="..\:/Company Assignment/CloudSEK/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
